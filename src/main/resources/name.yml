@@ -1,0 +1,10 @@
+
+male:
+  first_name: [Alexander, Alexei, Albert, Anatoly, Andrey, Anton, Boris, Victor, Vladimir, Dmitry, Evgeny, Ivan, Maxim, Nikolai, Oleg, Pavel, Sergey, Yuri]
+  middle_name: [Aleksandrovich, Alekseevich, Borisovich, Viktorovich, Vladimirovich, Dmitrievich, Evgenievich, Ivanovich, Maximovich, Nikolaevich, Olegovich, Pavlovich, Sergeevich, Yurevich]
+  last_name: [Ivanov, Kuznetsov, Popov, Lebedev, Kozlov, Novikov, Morozov, Petrov, Volkov, Solovyov, Vasiliev, Zaitsev, Pavlov, Semenov, Golubev, Vinogradov, Abramov, Bogdanov, Grigorev, Denisov, Yegorov, Ignatov, Korolev, Lazarev, Maximov, Nikolaev, Osipov, Romanov, Chernov, Shestakov, Yudin]
+
+female:
+  first_name: [Anna, Alyona, Anastasia, Elena, Ekaterina, Galina, Irina, Julia, Maria, Natalia, Olga, Polina, Svetlana, Tatiana, Vera, Valentina, Yana, Viktoria]
+  middle_name: [Aleksandrovna, Alekseevna, Borisovna, Viktorovna, Vladimirovna, Dmitrievna, Evgenievna, Ivanovna, Maximovna, Nikolaevna, Olegovna, Pavlovna, Sergeevna, Yurevna]
+  last_name: [Smirnova, Ivanova, Kuznetsova, Popova, Sokolova, Lebedeva, Kozlova, Novikova, Morozova, Petrova, Volkova, Vasilieva, Zaitseva, Pavlova, Golubeva, Vinogradova, Abramova, Bogdanova, Grigoreva, Denisova, Egorova, Ignatova, Koroleva, Lazareva, Maximova, Nikolaeva, Osipova, Romanova, Chernova, Shestakova, Yudina]
